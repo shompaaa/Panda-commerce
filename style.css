@@ -22,3 +22,29 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.cat1{
+    background-image: linear-gradient(to left, orange 0%, yellow 100% );
+}
+
+.cat2{
+    background-image: linear-gradient(to right, purple 0%, pink 100%);
+}
+
+.cat3{
+    background-image: linear-gradient(to left, blue 0%, skyblue 100%);
+}
+
+.catagories h1{
+    color: #fff;
+
+}
+
+.catagories img{
+    width: 100px;
+}
