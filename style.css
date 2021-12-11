@@ -48,3 +48,27 @@
 .catagories img{
     width: 100px;
 }
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 6px 6px 12px gray;
+}
+
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+
+#contact{
+    height: 300px;
+}
+
+#contact h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+    color: gray;
+}
